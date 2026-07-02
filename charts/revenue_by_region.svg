@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" fill="#f7f3ea"/>
+<text x="32" y="34" font-family="Arial" font-size="24" font-weight="700" fill="#1f2933">Revenue by Region</text>
+<text x="32" y="77" font-family="Arial" font-size="15" fill="#1f2933">East</text>
+<rect x="170" y="58" width="690.0" height="26" rx="3" fill="#2f6f73"/>
+<text x="870.0" y="77" font-family="Arial" font-size="14" fill="#1f2933">$11,271.61</text>
+<text x="32" y="125" font-family="Arial" font-size="15" fill="#1f2933">West</text>
+<rect x="170" y="106" width="578.7" height="26" rx="3" fill="#c65f37"/>
+<text x="758.7" y="125" font-family="Arial" font-size="14" fill="#1f2933">$9,453.51</text>
+<text x="32" y="173" font-family="Arial" font-size="15" fill="#1f2933">South</text>
+<rect x="170" y="154" width="559.6" height="26" rx="3" fill="#6b7f35"/>
+<text x="739.6" y="173" font-family="Arial" font-size="14" fill="#1f2933">$9,141.74</text>
+<text x="32" y="221" font-family="Arial" font-size="15" fill="#1f2933">North</text>
+<rect x="170" y="202" width="514.4" height="26" rx="3" fill="#415a77"/>
+<text x="694.4" y="221" font-family="Arial" font-size="14" fill="#1f2933">$8,402.38</text>
+</svg>

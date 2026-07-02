@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" fill="#f7f3ea"/>
+<text x="32" y="34" font-family="Arial" font-size="24" font-weight="700" fill="#1f2933">Monthly Revenue Trend</text>
+<line x1="70" y1="350" x2="860" y2="350" stroke="#9aa5b1"/>
+<line x1="70" y1="62" x2="70" y2="350" stroke="#9aa5b1"/>
+<polyline points="70.0,350.0 228.0,271.2 386.0,175.8 544.0,62.0 702.0,72.6 860.0,147.3" fill="none" stroke="#2f6f73" stroke-width="4"/>
+<circle cx="70.0" cy="350.0" r="6" fill="#c65f37"/>
+<text x="42.0" y="384" font-family="Arial" font-size="13" fill="#1f2933">2025-01</text>
+<text x="34.0" y="338.0" font-family="Arial" font-size="13" fill="#1f2933">$5,390.61</text>
+<circle cx="228.0" cy="271.2" r="6" fill="#c65f37"/>
+<text x="200.0" y="384" font-family="Arial" font-size="13" fill="#1f2933">2025-02</text>
+<text x="192.0" y="259.2" font-family="Arial" font-size="13" fill="#1f2933">$5,848.08</text>
+<circle cx="386.0" cy="175.8" r="6" fill="#c65f37"/>
+<text x="358.0" y="384" font-family="Arial" font-size="13" fill="#1f2933">2025-03</text>
+<text x="350.0" y="163.8" font-family="Arial" font-size="13" fill="#1f2933">$6,401.58</text>
+<circle cx="544.0" cy="62.0" r="6" fill="#c65f37"/>
+<text x="516.0" y="384" font-family="Arial" font-size="13" fill="#1f2933">2025-04</text>
+<text x="508.0" y="50.0" font-family="Arial" font-size="13" fill="#1f2933">$7,061.80</text>
+<circle cx="702.0" cy="72.6" r="6" fill="#c65f37"/>
+<text x="674.0" y="384" font-family="Arial" font-size="13" fill="#1f2933">2025-05</text>
+<text x="666.0" y="60.6" font-family="Arial" font-size="13" fill="#1f2933">$7,000.47</text>
+<circle cx="860.0" cy="147.3" r="6" fill="#c65f37"/>
+<text x="832.0" y="384" font-family="Arial" font-size="13" fill="#1f2933">2025-06</text>
+<text x="824.0" y="135.3" font-family="Arial" font-size="13" fill="#1f2933">$6,566.68</text>
+</svg>

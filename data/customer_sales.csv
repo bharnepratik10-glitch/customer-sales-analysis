@@ -1,0 +1,61 @@
+order_id,order_date,region,customer_segment,product_category,units_sold,unit_price,discount_pct,marketing_channel,delivery_days,satisfaction_score
+1001,2025-01-03,North,Consumer,Electronics,2,399.99,5,Search,4,4.5
+1002,2025-01-05,West,Corporate,Furniture,1,849.00,10,Email,7,4.0
+1003,2025-01-06,South,Consumer,Office Supplies,5,24.50,0,Social,3,4.7
+1004,2025-01-10,East,Home Office,Electronics,1,1199.00,12,Search,6,3.9
+1005,2025-01-12,North,Corporate,Office Supplies,12,9.99,0,Referral,2,4.8
+1006,2025-01-14,West,Consumer,Furniture,2,225.00,8,Social,8,3.8
+1007,2025-01-18,South,Home Office,Electronics,3,149.99,3,Email,5,4.3
+1008,2025-01-20,East,Consumer,Office Supplies,8,18.75,0,Search,2,4.6
+1009,2025-01-24,North,Consumer,Furniture,1,620.00,15,Referral,9,3.7
+1010,2025-01-27,West,Corporate,Electronics,4,279.99,7,Search,5,4.2
+1011,2025-02-01,South,Consumer,Office Supplies,10,14.20,0,Email,2,4.9
+1012,2025-02-04,East,Corporate,Furniture,3,310.00,5,Social,7,4.1
+1013,2025-02-07,North,Home Office,Electronics,2,699.00,9,Search,6,4.0
+1014,2025-02-09,West,Consumer,Office Supplies,6,31.00,0,Referral,3,4.7
+1015,2025-02-13,South,Corporate,Electronics,1,1599.00,14,Search,8,3.6
+1016,2025-02-16,East,Consumer,Furniture,2,180.00,4,Email,5,4.4
+1017,2025-02-19,North,Consumer,Office Supplies,15,6.50,0,Social,2,4.9
+1018,2025-02-22,West,Home Office,Electronics,1,899.00,6,Search,5,4.1
+1019,2025-02-25,South,Consumer,Furniture,1,540.00,11,Email,9,3.7
+1020,2025-02-28,East,Corporate,Office Supplies,20,11.25,2,Referral,3,4.6
+1021,2025-03-02,North,Corporate,Electronics,3,329.99,5,Search,4,4.5
+1022,2025-03-05,West,Consumer,Furniture,2,410.00,10,Social,8,3.9
+1023,2025-03-08,South,Home Office,Office Supplies,7,22.00,0,Email,3,4.8
+1024,2025-03-11,East,Consumer,Electronics,1,1299.00,13,Search,7,3.8
+1025,2025-03-14,North,Consumer,Furniture,3,150.00,5,Referral,6,4.2
+1026,2025-03-17,West,Corporate,Office Supplies,18,8.75,0,Email,2,4.9
+1027,2025-03-20,South,Consumer,Electronics,2,549.00,6,Social,5,4.3
+1028,2025-03-22,East,Home Office,Furniture,1,775.00,12,Search,9,3.6
+1029,2025-03-26,North,Corporate,Office Supplies,9,19.99,0,Referral,3,4.7
+1030,2025-03-29,West,Consumer,Electronics,5,199.99,4,Search,4,4.6
+1031,2025-04-02,South,Corporate,Furniture,2,690.00,15,Email,10,3.5
+1032,2025-04-05,East,Consumer,Office Supplies,14,12.49,0,Social,2,4.9
+1033,2025-04-08,North,Home Office,Electronics,1,999.00,8,Search,6,4.0
+1034,2025-04-11,West,Consumer,Office Supplies,11,16.50,0,Referral,3,4.8
+1035,2025-04-14,South,Consumer,Furniture,2,260.00,6,Social,7,4.1
+1036,2025-04-17,East,Corporate,Electronics,4,449.00,10,Search,5,4.3
+1037,2025-04-20,North,Consumer,Office Supplies,22,7.25,0,Email,2,5.0
+1038,2025-04-23,West,Home Office,Furniture,1,890.00,12,Search,9,3.7
+1039,2025-04-26,South,Corporate,Office Supplies,16,10.99,2,Referral,3,4.7
+1040,2025-04-29,East,Consumer,Electronics,2,749.00,7,Search,5,4.2
+1041,2025-05-03,North,Corporate,Furniture,3,330.00,8,Email,7,4.0
+1042,2025-05-06,West,Consumer,Office Supplies,13,15.75,0,Social,2,4.9
+1043,2025-05-09,South,Home Office,Electronics,1,1399.00,15,Search,8,3.6
+1044,2025-05-12,East,Consumer,Furniture,2,295.00,5,Referral,6,4.3
+1045,2025-05-15,North,Consumer,Electronics,3,249.99,4,Social,4,4.6
+1046,2025-05-18,West,Corporate,Office Supplies,24,6.99,0,Email,2,5.0
+1047,2025-05-21,South,Consumer,Furniture,1,720.00,13,Search,10,3.5
+1048,2025-05-24,East,Corporate,Electronics,2,599.00,9,Search,6,4.1
+1049,2025-05-27,North,Home Office,Office Supplies,10,21.50,0,Referral,3,4.8
+1050,2025-05-30,West,Consumer,Electronics,4,349.99,6,Social,5,4.4
+1051,2025-06-02,South,Corporate,Office Supplies,15,13.25,1,Email,3,4.7
+1052,2025-06-05,East,Consumer,Furniture,2,510.00,9,Referral,8,3.9
+1053,2025-06-08,North,Consumer,Electronics,1,1099.00,11,Search,7,3.8
+1054,2025-06-11,West,Home Office,Office Supplies,8,28.00,0,Social,4,4.5
+1055,2025-06-14,South,Consumer,Electronics,3,299.99,5,Search,4,4.7
+1056,2025-06-17,East,Corporate,Furniture,1,960.00,14,Email,10,3.4
+1057,2025-06-20,North,Consumer,Office Supplies,18,9.75,0,Referral,2,5.0
+1058,2025-06-23,West,Corporate,Electronics,2,799.00,8,Search,6,4.2
+1059,2025-06-26,South,Home Office,Furniture,2,375.00,7,Social,7,4.0
+1060,2025-06-29,East,Consumer,Office Supplies,12,17.99,0,Email,3,4.8

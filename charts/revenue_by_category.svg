@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420">
+<rect width="900" height="420" fill="#f7f3ea"/>
+<text x="32" y="34" font-family="Arial" font-size="24" font-weight="700" fill="#1f2933">Revenue by Product Category</text>
+<text x="32" y="77" font-family="Arial" font-size="15" fill="#1f2933">Electronics</text>
+<rect x="170" y="58" width="690.0" height="26" rx="3" fill="#2f6f73"/>
+<text x="870.0" y="77" font-family="Arial" font-size="14" fill="#1f2933">$22,395.31</text>
+<text x="32" y="125" font-family="Arial" font-size="15" fill="#1f2933">Furniture</text>
+<rect x="170" y="106" width="377.6" height="26" rx="3" fill="#c65f37"/>
+<text x="557.6" y="125" font-family="Arial" font-size="14" fill="#1f2933">$12,256.30</text>
+<text x="32" y="173" font-family="Arial" font-size="15" fill="#1f2933">Office Supplies</text>
+<rect x="170" y="154" width="111.5" height="26" rx="3" fill="#6b7f35"/>
+<text x="291.5" y="173" font-family="Arial" font-size="14" fill="#1f2933">$3,617.63</text>
+</svg>
