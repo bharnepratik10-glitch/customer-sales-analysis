@@ -1,1 +1,14 @@
-# customer-sales-analysis
+customer-sales-analysis/
+  data/
+    customer_sales.csv
+  src/
+    analyze_sales.py
+  charts/
+    revenue_by_region.svg
+    revenue_by_category.svg
+    monthly_revenue.svg
+  reports/
+    sales_summary.md
+  README.md
+  requirements.txt
+  .gitignore
