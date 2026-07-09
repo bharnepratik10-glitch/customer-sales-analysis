@@ -61,6 +61,14 @@ Running the script regenerates:
 - `charts/revenue_by_category.svg`
 - `charts/monthly_revenue.svg`
 
+## Running Tests
+
+To run the automated test suite:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
 ## Key Findings
 
 - Electronics generates the highest net revenue because of higher unit prices.
